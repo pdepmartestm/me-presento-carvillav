@@ -10,13 +10,14 @@
 ## Información general 👨‍💻
 - Soy de Perú, vivo en victoria, Pdo de San Fernando - Buenos Aires desde hace mas de 10 años.
 - Soy el mayor de tres hermanos.
-- Mi numero de legajo es 130.719-8.
+- Mi número de legajo es 130.719-8.
 
 #
 ## Sobre mí 🕵️‍♂️
 - Me gusta la programación sobre todo la de videojuegos, actualmente me estoy capacitando con vídeos tutoriales en el lenguaje de Godot Engine y C#.
 - Me gusta ver series y películas, por lo general de ciencia ficción.
 - Me gusta los videojuegos en general.
+- No soy hincha de algún equipo de fútbol pero simpatizo con Racing.
 
 ## Stats 📊
 <p align="center">
