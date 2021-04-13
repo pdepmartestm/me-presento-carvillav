@@ -25,7 +25,7 @@
 </p>
 
 #
-## Me contactan en: 📱
+## Me contactan: 📱
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-alejandro-villegas-avalos-68a50a174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/carlos-alejandro-villegas-avalos-68a50a174/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/car.vill.av/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/car.vill.av/" height="30" width="40" /></a>
